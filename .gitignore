@@ -1,0 +1,6 @@
+ABit.Identity/authserver_log.txt
+ABit.Identity/obj/
+ABit.Identity/bin/
+ABit.Core/obj/
+ABit.Core/bin/
+.vs/
